@@ -1,4 +1,3 @@
-script.js
 /* .js files add interaction to your website */
 var displayInfo = document.getElementById("message");
 var button = document.getElementById("submit");
