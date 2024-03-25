@@ -131,11 +131,6 @@
    border-style: solid;
    border-color: #efa48b;
  }
-
- ol li a {
-   background-color: #1f01b9;
-   color: #efa48b;
- }
  
  #submit:hover {
    background-color: #b2aeae
