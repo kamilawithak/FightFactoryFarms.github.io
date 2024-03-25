@@ -1,0 +1,152 @@
+style.css
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+    margin: 0px;
+    padding: 0px;
+ }
+ 
+ body {
+  background-color: #1f01b9;
+  text-align: center; 
+ }
+ 
+ /* STYLE TEXT */
+ 
+ h1 {
+   font-family: "Lucida Console", monospace;
+   margin-top: 1.5em;
+   margin-left: 35%;
+   margin-right: 35%;
+   padding: 1%;
+   color: #efa48b;
+   border-style: solid;
+   border-color: #efa48b;
+ }
+ 
+ ul {
+   list-style-type: none;
+   background-color: #466362;
+   overflow: hidden;
+   margin-top: 1em;
+   margin-bottom: 2em;
+   padding: .5em;
+   justify-content: center;
+ }
+ 
+ ul li {
+   display: inline;
+   justify-content: center;
+ }
+ 
+ li a {
+   font-family: "Lucida Console", monospace;
+   text-decoration: none;
+   background-color: #efa48b;
+   color: #1f01b9;
+   font-size: 1.3em;
+   padding: 1em;
+   margin: 3em;
+ }
+ 
+ a{
+   color: #efa48b;
+ }
+ 
+ ul li a:hover {
+   background-color: #d78265
+ }
+ 
+ img {
+   width: 420px;
+   height: 315px;
+ }
+ 
+ .pic-title {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   column-gap: 40px;
+   text-align: center;
+ }
+ 
+ #special{
+   font-family: "Lucida Console", monospace;
+   margin-left: 40%;
+   margin-right: 40%;
+   margin-bottom: 5px;
+   padding: 10px;
+   color: #efa48b;
+   border-style: solid;
+   border-color: #efa48b;
+ }
+ 
+ label {
+   color: #efa48b;
+   margin-left: 5px;
+   margin-right: 5px;
+   margin-top: 1em;
+   margin-bottom: 1em;
+   padding: 15px;
+ }
+ 
+ iframe{
+   width: 640px;
+   height: 360px;
+   text-align: center;
+ }
+ 
+ h3 {
+   font-family: "Lucida Console", monospace;
+   padding: 10px;
+   color: #efa48b;
+   border-style: solid;
+   border-color: #efa48b;
+ }
+ 
+ h4 {
+   margin: 10px;
+   color: #efa48b;
+ }
+ 
+ p {
+   color: #efa48b;
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-top: 1em;
+   margin-bottom: 1em;
+   padding: 15px;
+   border-style: solid;
+   border-color: #efa48b;
+ }
+ 
+ ol {
+   background-color: #1f01b9;
+   color: #efa48b;
+   list-style-type: circle;
+   list-style-position: inside;
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-top: 1em;
+   margin-bottom: 1em;
+   padding: 15px;
+   border-style: solid;
+   border-color: #efa48b;
+ }
+ 
+ #submit:hover {
+   background-color: #b2aeae
+ }
+ 
+ #links {
+   color: #efa48b;
+   margin-left: 30%;
+   margin-right: 30%;
+   margin-top: 1em;
+   margin-bottom: 1em;
+   padding: 15px;
+   border-style: solid;
+   border-color: #efa48b;
+ }
+ 
+ 
+ 
