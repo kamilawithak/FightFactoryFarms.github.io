@@ -9,6 +9,6 @@ if (button) {
 function displayMessage() {
   var name = document.getElementById("name").value
   var city = document.getElementById("city").value
-  displayInfo.innerHTML = name + " you can make a difference in " + city + " by putting up flyers, attending meetings at "<a href="https://rootsandshoots.org/projects/fight-factory-farms/"> "anti-factory farm organizations or starting your own, and spreading awareness through word of mouth."<a/>
+  displayInfo.innerHTML = name + " you can make a difference in " + city + " by putting up flyers, attending meetings at <a href="https://rootsandshoots.org/projects/fight-factory-farms/"> anti-factory farm organizations or starting your own, and spreading awareness through word of mouth."<a/>
 }
 
